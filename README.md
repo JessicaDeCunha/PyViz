@@ -52,26 +52,7 @@ Plotly express offers a broad selection of interactive plots. In this section, I
 
 ### Dashboard
 
-Now that you have worked out all of the code and analysis, you will use the Panel library to build an interactive dashboard for all of the visualizations. There are no hard requirements for the layout of this dashboard, so use your imagination and creativity!
-
-Use the `dashboard.ipynb` starter notebook for your dashboard code. Copy over the code for each visualization and place this into separate functions (1 function per visualization). This will make it easier to build and modify the layout later. Each function should return the plot figure in a format that Panel can use to plot the visualization.
-
-Sample Dashboard:
-
-  ![dashboard-demo.gif](Images/dashboard-demo.gif)
+Now that the code and analysis has been completed, I have used the Panel library to build an interactive dashboard for all of the visualizations. You can view a non-interactive preview of everything on the rental_analysis_preview.png
 
 ---
 
-### Submission
-
-* Create separate notebooks for the analysis and the dashboard and upload these to Github.
-
-* Write a README file to explain how to run and use your dashboard.
-
-* Submit the Github URL repository to Bootcampspot.
-
-* **Important Note:** You should not submit your Mapbox access token to Github!
-
----
-
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
