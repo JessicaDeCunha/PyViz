@@ -44,27 +44,11 @@ In this section, we figure out which neighbourhoods are the most expensive. The 
 
 #### Neighbourhood Map
 
-In this final section, you will read in neighbourhood location data and build an interactive map with the average prices per neighbourhood. Use a scatter Mapbox object from Plotly express to create the visualization. Remember, you will need your Mapbox API key for this.
+In this final section, we used neighbourhood location data and build an interactive map with the average prices per neighbourhood. Then we used a scatter Mapbox object from Plotly express to create the visualization with the help of Mapbox API key.
 
-Remember that to create maps visualizations using Plotly Express, you will need to create an account at [mapbox](https://www.mapbox.com/) and [create an access token](https://docs.mapbox.com/help/how-mapbox-works/access-tokens/#creating-and-managing-access-tokens).
+#### Cost Analysis 
 
-  ![neighbourhood-map.png](Images/neighbourhood-map.png)
-
-#### Cost Analysis (Optional Challenge)
-
-Plotly express offers a broad selection of interactive plots. In this optional challenge section, you will use Plotly express to a couple of plots that investors can interactively filter and explore various factors related to the house value of Toronto's neighbourhoods.
-
-1. Create a bar chart row facet to plot the average house values for all Toronto neighbourhoods per year. (+ 5 pts)
-
-    **Hint:** You can learn more about facet plots in Plotly Express in [this link](https://plotly.com/python/facet-plots/).
-
-   ![bar_chart_row](Images/bar_chart_row.png)
-
-2. Create a sunburst chart to conduct a cost analysis of the most expensive neighbourhoods in Toronto per year. (+ 5 pts)
-
-    **Hint:** You can learn more about sunburst charts in Plotly Express in [this link](https://plotly.com/python/sunburst-charts/).
-
-    ![sunburst](Images/sunburst.png)
+Plotly express offers a broad selection of interactive plots. In this section, I have used Plotly express on a few of the.plots that investors can interactively filter and explore various factors related to the house value of Toronto's neighbourhoods.
 
 ### Dashboard
 
